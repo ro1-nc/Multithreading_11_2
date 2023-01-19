@@ -1,0 +1,10 @@
+D:\C# Assignments\Multithreading_Dia_1\bin\Debug\Multithreading_Dia_1.exe.config
+D:\C# Assignments\Multithreading_Dia_1\bin\Debug\Multithreading_Dia_1.exe
+D:\C# Assignments\Multithreading_Dia_1\bin\Debug\Multithreading_Dia_1.pdb
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.csprojAssemblyReference.cache
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.Form1.resources
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.Properties.Resources.resources
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.csproj.GenerateResource.cache
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.exe
+D:\C# Assignments\Multithreading_Dia_1\obj\Debug\Multithreading_Dia_1.pdb
